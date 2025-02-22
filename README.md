@@ -13,3 +13,5 @@ Raspberry PI has special pins for UART. This pins are routed to FTDI FT232H chip
 data to USB.
 Datasheet for the FTDI FT232H is here:
 https://ftdichip.com/wp-content/uploads/2024/09/DS_FT232H.pdf
+
+Display connector for ILI9341 SPI Display
