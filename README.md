@@ -1,4 +1,5 @@
 Raspberry PI hat.
+![screenshot](images/pcb_screenshot.png)
 
 Convenience expansion board for raspberry pi development.
 
@@ -15,3 +16,6 @@ Datasheet for the FTDI FT232H is here:
 https://ftdichip.com/wp-content/uploads/2024/09/DS_FT232H.pdf
 
 Display connector for ILI9341 SPI Display
+
+![screenshot](images/preview_screen_01.png)
+![screenshot](images/preview_screen_02.png)
